@@ -6,15 +6,15 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/PowerShell-ISE](https://draculatheme.com/PowerShell-ISE) or [INSTALL](./INSTALL.md).
+All instructions can be found at [draculatheme.com/powershell-ise](draculatheme.com/powershell-ise) or [INSTALL](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/PowerShell-ISE/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/powershell-ise/graphs/contributors).
 
 | [![Star Kev](https://github.com/StarKev.png?size=100)](https://github.com/StarKev) |
-| ---------------------------------------------------------------------------------------- |
-| [Star Kev](https://github.com/StarKev)                                               |
+| ---------------------------------------------------------------------------------- |
+| [Star Kev](https://github.com/StarKev)                                             |
 
 ## Community
 
