@@ -14,21 +14,21 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/powershel
 
 #### Activating theme
 
-1. Open windows PowerShell ISE
+1. Open windows PowerShell ISE;
 
-- ![Screenshot](./images/01-Open_ISE.png)
+- ![Screenshot](https://raw.githubusercontent.com/dracula/powershell-ise/main/images/01-open-ise.png)
 
-2. Navigate to Tools > Options > Colors and Fonts > Manage Themes.
+2. Navigate to `Tools` > `Options` > `Colors and Fonts` > `Manage Themes`;
 
-- ![Screenshot](./images/02-Tools_Options.png)
-- ![Screenshot](./images/03-Colors_Fonts.png)
+- ![Screenshot](https://raw.githubusercontent.com/dracula/powershell-ise/main/images/02-tools-options.png)
+- ![Screenshot](https://raw.githubusercontent.com/dracula/powershell-ise/main/images/03-colors-fonts.png)
 
-3. click Import
+3. Then click on `Import`;
 
-- ![Screenshot](./images/04-Import.png)
+- ![Screenshot](https://raw.githubusercontent.com/dracula/powershell-ise/main/images/04-import.png)
 
-4. Go to the location of the . xml file and click open
+4. Go to the location of the `.xml` file and click on `Open`;
 
-- ![Screenshot](./images/05-Select_File.png)
+- ![Screenshot](https://raw.githubusercontent.com/dracula/powershell-ise/main/images/05-select-file.png)
 
-5. Finally press ok, then apply and ok to apply the theme to the script and cosole
+5. Finally press `Ok`, `Apply` and `Ok` again to apply the theme to the script and cosole.

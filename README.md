@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/powershell-ise](draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/powershell-ise/graphs/contributors).
 
-| [![Star Kev](https://github.com/StarKev.png?size=100)](https://github.com/StarKev) |
-| ---------------------------------------------------------------------------------- |
-| [Star Kev](https://github.com/StarKev)                                             |
+| [![Star Kev](https://github.com/StarKev.png?size=100)](https://github.com/StarKev) | [![Kevin Wells](https://github.com/kawells.png?size=100)](https://github.com/kawells) |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Star Kev](https://github.com/StarKev)                                             | [Kevin Wells](https://github.com/kawells)                                             |
 
 ## Community
 
